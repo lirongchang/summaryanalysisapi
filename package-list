@@ -1,0 +1,5 @@
+com.summaryanalysis.main.api
+com.summaryanalysis.main.impl
+com.summaryanalysis.main.pojo
+com.summaryanalysis.main.service
+com.summaryanalysis.main.util
